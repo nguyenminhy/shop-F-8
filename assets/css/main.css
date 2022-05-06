@@ -170,7 +170,7 @@
 .header_qr-apps{
     display: flex;
     justify-content: space-between;
-
+ 
 }
 .header__qr-link:nth-child(1){
     margin-left: 11px;
